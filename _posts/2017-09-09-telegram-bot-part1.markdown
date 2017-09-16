@@ -3,6 +3,7 @@ layout: post
 title:  "Телеграм бот. Часть 1. Neo4J"
 date:   2017-09-09 15:43:30 +0300
 categories: technologies
+tags: [technologies,telegram]
 image:
   feature: 2017-09-09/neo4j.png
   teaser: 2017-09-09/neo4j-teaser.jpg

@@ -48,6 +48,11 @@ img {
   border-radius: 5px;
 }
 
+figure {
+  width: 100% !important;
+  display: block;
+}
+
 blockquote {
   border-left: 0.25rem solid #ccc;
   margin: 1.5em 10px;
@@ -264,14 +269,7 @@ code {
 }
 
 pre {
-    padding: 8px 12px;
-    overflow-x: auto;
 
-    > code {
-        border: 0;
-        padding-right: 0;
-        padding-left: 0;
-    }
 }
 
 .highlight .lineno {
