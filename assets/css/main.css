@@ -19,9 +19,14 @@ body {
   }
 }
 
-.book-image {
-  float: right;
+@media (min-width: 768px)  {
+  
+  .book-image {
+    float: right;
+  }
+  
 }
+
 
 h1{
   font-size: 2rem;
