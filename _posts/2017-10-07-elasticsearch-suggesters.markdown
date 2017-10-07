@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Elasticsearch. Венигрет или Винегрет?"
+title:  "Венигрет или Винегрет? Опечаточники от Elasticsearch"
 date:   2017-10-07 10:43:30 +0300
 categories: technologies
 tags: [technologies, elasticsearch]
