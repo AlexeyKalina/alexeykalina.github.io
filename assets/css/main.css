@@ -27,6 +27,14 @@ body {
   
 }
 
+#chartdiv {
+  width		: 50%;
+  height		: 70%;
+  font-size	: 11px;
+  margin:10px;
+  padding:10px;
+  }
+
 
 h1{
   font-size: 2rem;
