@@ -24,8 +24,17 @@ body {
   .book-image {
     float: right;
   }
-  
 }
+
+.tablestyle {
+  border-collapse: collapse;}
+
+ table, td, th {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: center;
+  }
+
 
 #chartdiv {
   width		: 50%;
