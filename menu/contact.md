@@ -4,4 +4,4 @@ title: Contact
 ---
 
 
-GitHub: [KalinaAlexey](https://github.com/AlexeyKalina)
+GitHub: [AlexeyKalina](https://github.com/AlexeyKalina)
