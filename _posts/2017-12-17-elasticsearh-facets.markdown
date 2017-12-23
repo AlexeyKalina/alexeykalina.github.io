@@ -2,7 +2,7 @@
 layout: post
 title:  "Фасеты с помощью Elasticsearch"
 date:   2017-12-17 10:13:30 +0300
-categories: events
+categories: technologies
 tags: [technologies, elasticsearch]
 image:
   feature: 2017-12-17/jeopardy.png
