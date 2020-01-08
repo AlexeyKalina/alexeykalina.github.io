@@ -5,4 +5,4 @@ title: Contact
 
 GitHub: [AlexeyKalina](https://github.com/AlexeyKalina)
 
-VK: [Алексей Калина](https://vk.com/id111169082)
+VK: [Алексей Калина](https://vk.com/kalina_alexey)
