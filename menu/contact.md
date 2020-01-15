@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Контакты
 ---
 
 GitHub: [AlexeyKalina](https://github.com/AlexeyKalina)

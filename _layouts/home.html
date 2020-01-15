@@ -50,16 +50,16 @@ title: Home
 
 <!-- Pagination links -->
 <div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Older</a>
-  {% else %}
-    <span class="pagination-button">Older</span>
-  {% endif %}
-
   {% if paginator.previous_page %}
-    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Newer</a>
-    {% else %}
-      <span class="pagination-button">Newer</span>
+    <a class="pagination-button pagination-active" href="{{ site.baseurl }}{{ paginator.previous_page_path }}">Позже</a>
+  {% else %}
+    <span class="pagination-button">Позже</span>
+  {% endif %}
+  
+  {% if paginator.next_page %}
+    <a class="pagination-button pagination-active" href="{{ site.github.url }}{{ paginator.next_page_path }}" class="next">Раньше</a>
+  {% else %}
+    <span class="pagination-button">Раньше</span>
   {% endif %}
 
 </div>

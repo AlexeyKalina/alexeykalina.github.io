@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Обо мне
 ---
 ![avatar]({{ site.baseurl }}/assets/img/menu/avatar.png){: .avatar}
 

@@ -2,15 +2,15 @@ title:  Калина Алексей
 tagline:  блог программиста
 
 disqus:
-  comments: true
+  comments: false
   disqus_shortname: 'alexeykalina'
 
 google-ID: ''
 
 menu:
-- {name: 'About', url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
-- {name: 'Contact', url: 'contact.html'}
+- {name: 'Обо мне', url: 'about.html'}
+- {name: 'Архив', url: 'writing.html'}
+- {name: 'Контакты', url: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/AlexeyKalina'}
