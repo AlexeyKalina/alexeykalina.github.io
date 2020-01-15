@@ -8,6 +8,8 @@ highlighter:         rouge
 permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed]
 
+staticman_url:       https://api.staticman.net/v3/entry/github/alexeykalina/alexeykalina.github.io/master/comments
+
 # Customise feed settings (uncommenting following two fields to customise feed title and description)
 #title:		     "Lagrange-Custom"
 #description:	     "a minimalist Jekyll theme-Custom"
