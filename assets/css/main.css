@@ -190,11 +190,68 @@ blockquote p {
 
 .related-posts {
   padding-left: 0px;
+  line-height: 1em;
   list-style: none;
 }
 
 .related-posts a {
   text-decoration: none;
+}
+
+.comment {
+  margin-top: 30px;
+  position: relative;
+}
+
+.comment__header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.comment__img {
+  margin: 5px 0px 5px 5px;
+}
+
+.comment__name {
+  margin-left: 8px;
+  color: black;
+}
+
+.comment__date {
+  margin-left: 8px;
+  color: #5f5f5f;
+  font-size: 12px;
+}
+
+.comment__text>p {
+  margin: 0px 0px 0px 15px;
+}
+
+.comment-form {
+  display: block;
+}
+
+.comment-form__field {
+  margin-bottom: 10px;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  color: #444;
+  font-size: 16px;
+  padding: 12px 15px;
+  width: 100%;
+  border-radius: 3px;
+}
+
+.comment-form__submit {
+  border: 1px solid #e0e0e0;
+  padding: 15px 45px;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  color: #444;
+  cursor: pointer;
 }
 
 /*
