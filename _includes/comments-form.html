@@ -1,11 +1,17 @@
 <h3>Новый комментарий:</h3>
+
 <form class="comment-form" method="POST" action="{{ site.staticman_url }}">
   <input name="options[redirect]" type="hidden" value="{{ site.url }}{{ page.url }}">
   <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+  <input type="hidden" name="options[reCaptcha][siteKey]" value="6LdtXdcUAAAAAIeoM2OJ9x-5LQjOuLUeLZTGndkH">
+  <input type="hidden" name="options[reCaptcha][secret]" value="zRvfYaB4Gcy1mhg1urUzFxOv8O96kcdkWoOLBiquvlZ5rHXb/Xwe/BXDghXZ/I0KlFZtP1fsocVQlplGcraPfGZL5tj5ezynQ+eBTsrotssnDl47WW6iwKY8r8xP3SlNfnu19lmukcDihbEqPGDUemWcvR+smgDWvmDmlUxlEzw=">
   <textarea class="comment-form__field" style="width:100%" name="fields[message]" rows="12" placeholder="Ваш комментарий*"></textarea>
   <input class="comment-form__field" name="fields[name]" type="text" placeholder="Имя*">
   <input class="comment-form__field" name="fields[email]" type="email" placeholder="Email (не публикуется; только для аватара)">
   <input class="comment-form__field" name="fields[url]" type="url" placeholder="Website">
+  <div class="g-recaptcha" data-sitekey="6LdtXdcUAAAAAIeoM2OJ9x-5LQjOuLUeLZTGndkH"></div>
   <button class="comment-form__submit" type="submit">Опубликовать</button>
   <small>Комментарий будет добавлен после проверки на спам</small>
 </form>
+
+<script src='https://www.google.com/recaptcha/api.js'></script>
