@@ -6,9 +6,9 @@ title: Обо мне
 
 ### Работа
 - 2017-2019 Digital Design. Backend, R&D.
-- 2019-н.в. JetBrains. Code Completion team.
+- 2019-н.в. JetBrains. Machine Learning in Code Completion.
 
 ### Образование
 - 2014-2018 Бакалавриат Мат-Меха СПбГУ.
-- 2018-н.в. Магистратура Мат-Меха СПбГУ.
-- 2018-н.в. [Computer Science Center](https://compscicenter.ru/users/4626/).
+- 2018-2020. Магистратура Мат-Меха СПбГУ.
+- 2018-2021. [Computer Science Center](https://compscicenter.ru/users/4626/).
