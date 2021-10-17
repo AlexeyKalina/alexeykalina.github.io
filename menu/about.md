@@ -11,4 +11,4 @@ title: Обо мне
 ### Образование
 - 2014-2018 Бакалавриат Мат-Меха СПбГУ.
 - 2018-2020. Магистратура Мат-Меха СПбГУ.
-- 2018-2021. [Computer Science Center](https://compscicenter.ru/users/4626/).
+- 2018-2021. [Computer Science Center](https://compscicenter.ru/students/4626/).
