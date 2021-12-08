@@ -10,7 +10,6 @@ google-ID: ''
 menu:
 - {name: 'Обо мне', url: 'about.html'}
 - {name: 'Архив', url: 'writing.html'}
-- {name: 'Контакты', url: 'contact.html'}
 
 social:
 - {icon: 'github', link: 'https://www.github.com/AlexeyKalina'}
